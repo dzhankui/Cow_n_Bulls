@@ -498,4 +498,4 @@ with st.expander("ℹ️ О методологии BLUP Animal Model"):
 		st.error(f"Ошибка при построении схемы: {e}")
 		st.image("https://i.imgur.com/2XjJ9dO.png", caption="Схема BLUP Animal Model")
 st.markdown("---")
-st.caption("© 2025 Оптимизатор селекции КРС | Реализация BLUP Animal Model для точной генетической оценки")
+st.caption("© 2025 Оптимизатор селекции КРС | Реализация BLUP Animal Model by dzhankui@bk.ru для точной генетической оценки")
